@@ -8,4 +8,4 @@
 - No Atlas liberar o ip do heroku para conexão every.
 - Reiniciar o heroku -> heroku restart
 - Mudar a baseURL no FrontEnd para a url Base do backend
-- Mudar o cors do BackEnd para liberar acesso do frontEnd
+- Mudar o cors do BackEnd para liberar acesso do frontEnd o endereço não pode ter a ultima barra "/"
